@@ -1,0 +1,45 @@
+[
+    {
+        "group_name": "АТОПТ",
+        "university_name": "АПЭТ",
+        "teacher_name": "Березин Данил",
+        "gradebook": "21321321",
+        "subject": "История России",
+        "work_type": "work_type_Тест",
+        "has_guidelines": false,
+        "guidelines_file": null,
+        "task_file": {
+            "id": "BQACAgIAAxkBAAIPN2hg3g5Bn7nHt_Hwh_naggv8vUHkAALZhQAChiUAAUsEjint6KGpJDYE",
+            "type": "document"
+        },
+        "task_text": null,
+        "has_example": false,
+        "example_file": null,
+        "deadline": "09.07.2025",
+        "comments": "Нет",
+        "status": "Утверждено администратором",
+        "user_id": 7352968223,
+        "username": "N/A",
+        "first_name": "Артем",
+        "last_name": "Усов",
+        "creation_date": "29.06.2025 14:32",
+        "order_id": 2,
+        "final_price": 8000,
+        "executor_cancel_reason": "Передумал",
+        "executor_cancel_comment": "",
+        "executor_id": 8030752676,
+        "executor_offer": {
+            "price": 8000,
+            "deadline": "3 дня",
+            "executor_id": 8030752676,
+            "executor_username": null,
+            "executor_full_name": "Team Snax",
+            "executor_comment": ""
+        },
+        "submitted_work": {
+            "file_id": "BQACAgIAAxkBAAIQnmhiRB-m1tb_s-8S92va9UJM5rW8AAIbdgACuS0RS5AkyM8ytDoSNgQ",
+            "file_name": "Работа_Python.zip"
+        },
+        "submitted_at": "30.06.2025"
+    }
+]
